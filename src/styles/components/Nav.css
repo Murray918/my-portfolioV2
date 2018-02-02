@@ -1,0 +1,13 @@
+.Nav-header {
+	/* background-color: #e9bfba; */
+	background-color: #deeffb;
+	height: 150px;
+	padding: 20px;
+	color: #534b3a;
+}
+
+.Nav-title {
+	font-size: 3.5rem;
+	text-align: center;
+	margin-top: 45px;
+}
