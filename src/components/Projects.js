@@ -34,7 +34,7 @@ export default class Projects extends Component {
 								foresee the pain and trouble that are bound.
 							</p>
 						</div>
-						<div className="Project-img four columns u-pull-right">
+						<div className="Project-reverse-image four columns u-pull-right">
 							<img src="https://images.unsplash.com/photo-1506287375451-bb850eba44d0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=162af6b1badbe6c88475f5b45186502b&auto=format&fit=crop&w=675&q=80" />
 						</div>
 					</div>
