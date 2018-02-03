@@ -7,7 +7,7 @@ export default class Nav extends Component {
 			<div className="" id="Nav">
 				<header className="Nav-header">
 					<div className="container">
-						<h1 className="Nav-title">Andrew Murray Full Stack Engineer</h1>
+						<h1 className="Nav-title">Andrew Murray - Full Stack Engineer</h1>
 					</div>
 				</header>
 			</div>

@@ -3,6 +3,7 @@ import '../styles/components/App.css';
 import Layout from './Layout';
 import Contact from './Contact';
 import About from './About';
+import Projects from './Projects';
 
 class App extends Component {
 	render() {
@@ -11,6 +12,7 @@ class App extends Component {
 				<Layout>
 					<Contact />
 					<About />
+					<Projects />
 				</Layout>
 			</div>
 		);
