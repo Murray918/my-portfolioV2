@@ -9,7 +9,7 @@ export default class About extends Component {
 				<hr />
 				<h6>
 					GitHub :
-					<a href="https://github.com/Murray918">GitHub</a>
+					<a href="https://github.com/Murray918">github.com/Murray918</a>
 				</h6>
 				<h6>
 					{' '}
@@ -21,7 +21,9 @@ export default class About extends Component {
 					<a href="https://www.linkedin.com/in/murray918/">LinkedIn</a>
 				</h6>
 				<h6>
-					<a href="">Resumé</a>
+					<a href="https://drive.google.com/file/d/1ZRWMO0uYaYDgBwi_1tnBHmT8XTcyNIw0/view?usp=sharingf">
+						Download My Resumé
+					</a>
 				</h6>
 			</div>
 		);

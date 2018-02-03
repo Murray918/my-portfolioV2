@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import Foot from './Foot';
 import Nav from './Nav';
 
-export default class BaseLayout extends Component {
+export default class Layout extends Component {
 	render() {
 		return (
-			<div id="BaseLayout">
+			<div id="Layout">
 				<Nav />
 				<div className="container site-container">{this.props.children}</div>
 				<Foot />
